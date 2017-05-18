@@ -1,5 +1,5 @@
 #Content Library Spreadhshet
-$GOOGLESHEETKEY = ""
+$GOOGLESHEETKEY = "1cw_Wegrmo7imB5Uu06lydqXYOmWa5w6hc0kXsfz53xE"
 
 
 #Buffer API
